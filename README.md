@@ -6,6 +6,8 @@
  
 ⚡ Local Coordinator at  Students For Liberty
 
+💼 Intern at The Forense
+
 ### Tecnologias: 
 
 <p >

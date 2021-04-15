@@ -2,7 +2,7 @@
 
 📌 Living in Teresina, Piauí,Brazil
 
- 🌱 I’m currently learning about **IoT**, **Web Scraping**, **Web Development(Front and Back)**
+ 🌱 I’m currently learning about  **Web Scraping**, **React Native**, **Node.JS**, **React JS**
  
 ⚡ Local Coordinator at  Students For Liberty
 

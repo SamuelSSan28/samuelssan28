@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+
 # Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Samuel Santos! 
 
 📌 Living in Teresina, Piauí,Brazil
@@ -30,4 +32,4 @@
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=samuelssan28&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelssan28&hide=TeX&layout=compact)
+

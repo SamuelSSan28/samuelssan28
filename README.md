@@ -1,31 +1,28 @@
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-# Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Samuel Santos! 
+## Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Samuel Santos! 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-5217831aa/)
+[![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](http://samuelssan.tech/)
 
-📌 Living in Teresina, Piauí,Brazil
+Nice to meet you! My name is Samuel. I'm currently studying to be Full Stack web developer who take great care in the experience, architecture, and code quality builded. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
- 🌱 I’m currently learning about  **Web Scraping**, **React Native**, **Node.JS**, **React JS**
- 
-⚡ Local Coordinator at  Students For Liberty
+### Tech Stack
+ - 💻 Programming Languages: **JavaScript**, Python.
+ - 🌐 Web Development Framework: React JS.
+ - 📱  Mobile Development Framework: React Native.
+ - ☁️ Backend Development Framework: Node JS.
+ - ⛏  Interest: Next JS, Typescript, Blockchain.
+ <br>
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-## 🚀💻 Technologies & Tools
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelssan28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelssan28&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+💬 Ask me about anything, I am happy to help
+<br>
 
+📫 How to reach me: samuelssan28@gmail.com

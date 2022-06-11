@@ -1,6 +1,6 @@
 <img align="right" src="https://i.imgur.com/JcA8xdl.png" width="500"/>
 
-## Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Samuel Santos! 
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">, I'm Samuel Santos! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-5217831aa/)
 [![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](http://www.samuelssan.dev/)
 

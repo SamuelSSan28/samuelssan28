@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-5217831aa/)
 [![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](http://www.samuelssan.dev/)
 
-Nice to meet you! My name is Samuel. I'm currently studying to be Full Stack web developer who take great care in the experience, architecture, and code quality builded. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Nice to meet you! I am a software developer with 3 years of experience, always focused on architecture, quality and best practices. I've worked on projects where I played the role of software developer, working on the development of web applications, automation and data processing scripts, as well as mobile application projects.
 
 ### Tech Stack
  - 💻 Programming Languages: **JavaScript**, Python.

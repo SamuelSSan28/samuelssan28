@@ -4,7 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-5217831aa/)
 [![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](http://www.samuelssan.dev/)
 
-Nice to meet you! I am a software developer with 3 years of experience, always focused on architecture, quality and best practices. I've worked on projects where I played the role of software developer, working on the development of web applications, automation and data processing scripts, as well as mobile application projects.
+Nice to meet you! I am an experienced software developer with a wide range of skills in both backend and front-end software development. 
+
+I have a passion for solving complex problems with innovative and efficient solutions. I have extensive experience in web application development, automation scripts for data processing, and mobile app projects. As a professional, I am dedicated and passionate about learning and applying new technologies. 
+
+Check out my portfolio at https://www.samuelssan.dev/ and feel free to visit my Github at https://github.com/SamuelSSan28 to see my recent projects.
 
 ### Tech Stack
  - 💻 Programming Languages: **JavaScript**, Python.

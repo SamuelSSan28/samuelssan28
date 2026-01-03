@@ -1,21 +1,21 @@
 <img align="right" src="https://i.imgur.com/JcA8xdl.png" width="500"/>
 
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">, I'm Samuel Santos! 
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-5217831aa/)
 [![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](http://www.samuelssan.dev/)
 
-Nice to meet you! I am an experienced software developer with a wide range of skills in both backend and front-end software development. 
+Nice to meet you! I’m a **Full Stack Software Developer** who likes turning ideas (and bugs 🐛) into working software.
 
-I have a passion for solving complex problems with innovative and efficient solutions. I have extensive experience in web application development, automation scripts for data processing, and mobile app projects. As a professional, I am dedicated and passionate about learning and applying new technologies. 
+I build products end to end, jumping between backend services and frontend features depending on the problem.
 
-Check out my portfolio at https://www.samuelssan.dev/ and feel free to visit my Github at https://github.com/SamuelSSan28 to see my recent projects.
+If you’re curious, feel free to take a look at my projects below 👇
 
 ### Tech Stack
- - 💻 Programming Languages: **JavaScript**, Python.
- - 🌐 Web Development Framework: React JS.
- - 📱  Mobile Development Framework: React Native.
- - ☁️ Backend Development Framework: Node JS.
- - ⛏  Interest: Next JS, Typescript, Blockchain.
+- 💻 **Languages:** JavaScript, TypeScript, Python, PHP  
+- 🌐 **Frontend:** React.js, Next.js  
+- ☁️ **Backend:** Node.js (NestJS, Express), FastAPI (Python), ClickHouse, AWS  
+- 📱 **Mobile:** React Native  
+ - ⛏ **Interest:** Software architecture patterns, System design
  <br>
 
 <details>	

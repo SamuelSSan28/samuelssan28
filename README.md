@@ -28,5 +28,3 @@ If you’re curious, feel free to take a look at my projects below 👇
 
 💬 Ask me about anything, I am happy to help
 <br>
-
-📫 How to reach me: samuelssan28@gmail.com
